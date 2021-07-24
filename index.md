@@ -1,6 +1,7 @@
 ## Software website
 
 [Learn about me](about)
+[Home](/)
 
 Welcome to my website! I hope you enjoy your time here and have a great day!
 
